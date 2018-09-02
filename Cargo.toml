@@ -1,0 +1,10 @@
+[package]
+name = "rust-actix-hello"
+version = "0.1.0"
+authors = ["Ski <skyjur@gmail.com>"]
+
+[dependencies]
+actix-web = "0.7"
+actix = "0.7"
+lmdb-zero = "0.4"
+futures = "0.1"
